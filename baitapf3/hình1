@@ -1,0 +1,14 @@
+<h1>Lịch sinh hoạt hàng tuần</h1>
+<table border="1">
+    <tr> 
+        <th></th>
+        <th>Thứ Hai</th>
+        <th>Thứ Ba</th>
+        <th>Thứ Tư</th>
+    </tr>
+    <tr>
+        <td>Sáng</td>
+        <td> Học chính khoá</td>
+        <td> Học chính khoá</td>
+        <td> Học chính khoá</td>
+    </tr>
